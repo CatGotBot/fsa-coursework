@@ -9,7 +9,12 @@
 
 const userMessage = "You have received this message because you have been chosen to open an important vault"
 
-let code1 = 1 + 1
-let code2 = 10 - 5 
-let code3 = 7 * 3
- alert(userMessage + "\n" + code1 + "" + code2 + "" + code3 )
+let code1 = 5 + 5
+let code2 = 50 - 10 
+let code3 = 13 * 3
+
+ alert(userMessage + "\n" + code1 + "-" + code2 + "-" + code3 )
+
+ let password = "this is my pass";
+
+
